@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+faiss-cpu
+unstructured
+pypdf
+tiktoken
+python-dotenv
