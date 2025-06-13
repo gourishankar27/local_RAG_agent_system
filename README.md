@@ -71,3 +71,8 @@ Once the installation is complete, you can start the assistant.
 
 4.  **Exit the application** by typing `exit` and pressing Enter.
 
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
