@@ -29,8 +29,8 @@ To get the assistant set up and running, follow these steps:
 
 1.  **Clone the Repository** *(Replace `your-username/your-repo-name` with your actual GitHub repository details)*
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/gourishankar27/local_RAG_agent_system.git](https://github.com/gourishankar27/local_RAG_agent_system.git)
+    cd local_RAG_agent_system
     ```
 
 2.  **Create and Activate a Virtual Environment** (Recommended)
