@@ -1,0 +1,6 @@
+# Environments
+.env
+.venv
+
+# FAISS index
+faiss_index/
